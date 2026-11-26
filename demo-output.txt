@@ -1,0 +1,5 @@
+demo chain: /home/hatch/workspace/agent-receipts/demo-chain.jsonl
+receipts: 3
+verify: OK
+detail: chain OK: 3 receipts, tip f1fe9fa9d8406cfad6e23aa0212d8231d00ceacbb184a0ce2cd081f17cd513d3
+tip hash: f1fe9fa9d8406cfad6e23aa0212d8231d00ceacbb184a0ce2cd081f17cd513d3
